@@ -2,7 +2,7 @@
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
-    <p>This CI CD integration</p>
+    <p>This is CI CD integration pipeline</p>
     <hr>
 
      
