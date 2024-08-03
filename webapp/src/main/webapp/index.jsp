@@ -4,6 +4,8 @@
     <p>Please fill in this form to create an account.</p>
     <p>This is CI CD integration pipeline</p>
     <p>This pipeline created till tomcat</p>
+    <p>tomcat server replaced by docker container</p>
+    <p>web app created by docker container on dockerhost server</P>
     <hr>
 
      
