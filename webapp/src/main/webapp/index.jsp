@@ -5,7 +5,7 @@
     <p>This is CI CD integration pipeline</p>
     <p>This pipeline created till tomcat</p>
     <p>tomcat server replaced by docker container</p>
-    <p>web app created by docker container on dockerhost seeerver</P>
+    <p>web app created by docker container on dockerhost seeerver instead normal process</P>
     <hr>
 
      
